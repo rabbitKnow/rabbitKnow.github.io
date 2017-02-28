@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: honjunzh@gmail.com
 #blog logo
-logo: "/assets/images/apple-logo.jpg"
+logo: "/assets/images/apple300.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
@@ -18,9 +18,9 @@ cover: "/assets/images/background-rabbit.jpg"
 
 name: 'Zhang Hongjun'
 author: 'Zhang Hongjun'
-author_image: "/assets/images/apple-logo.jpg"
+author_image: "/assets/images/apple300.jpg"
 
-paginate:	5
+paginate:           5
 
 url: "http://rabbitknow.com" # the base hostname & protocol for your site
 baseurl: ""
