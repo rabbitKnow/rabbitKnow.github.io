@@ -22,10 +22,10 @@ author_image: "/assets/images/apple-logo.jpg"
 
 paginate:	5
 
-url: "http://rabbit.com" # the base hostname & protocol for your site
+url: "http://rabbitknow.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@rabbitknow'
+#twitter_handle: '@rabbitknow'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
