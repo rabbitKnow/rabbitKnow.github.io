@@ -4,17 +4,17 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "RabbitKnow"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+    Simple thought -- Freiheit als Autonomie
 
-email: a-mail@mail.mail
+email: honjunzh@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/apple_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/background-rabbit.jpg"
 
 name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
@@ -22,7 +22,7 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://rabbit.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
@@ -49,7 +49,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/rabbitknow
     desc:	Fork me on github
     share_url:
     share_title:
