@@ -10,22 +10,22 @@ description: > # this means to ignore newlines until "email:"
 
 email: honjunzh@gmail.com
 #blog logo
-logo: "/assets/images/apple_logo.jpg"
+logo: "/assets/images/apple-logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
 cover: "/assets/images/background-rabbit.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'Zhang Hongjun'
+author: 'Zhang Hongjun'
+author_image: "/assets/images/aapple-logo.jpg"
 
 paginate:	5
 
 url: "http://rabbit.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@rabbitknow'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -33,13 +33,13 @@ twitter_handle: '@dirkfabisch'
 #google_analytics: UA-XXXXX-X
 
 # social icons and sharing options
-social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+#social:
+#  - icon:	twitter
+#    url:	https://twitter.com/dirkfabisch
+#    desc: Follow me on twitter
+#    share_url: http://twitter.com/share
+#    share_title: ?text=
+#    share_link: "&amp;url="
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
